@@ -32,7 +32,7 @@
     "url": "https://github.com/carmenmitru/wdio-markdown-reporter/issues"
   },
   "dependencies": {
-    "@wdio/cli": "5.0.0",
+    "@wdio/cli": "^7.6.0",
     "rimraf": "^3.0.0",
     "moment": "^2.24.0"
   },
